@@ -1,5 +1,4 @@
 import React from 'react'
-import send from '../assets/icons/send.png'
 
 const Footer = () => {
   return (
