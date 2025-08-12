@@ -19,7 +19,7 @@ const Education = () => {
   <>
   <div className="bg-white py-20 px-4 sm:px-6 md:px-12 lg:px-24" id="education">
 
-      <h2 className="text-center text-4xl font-extrabold text-gray-800 dark:text-white mb-12 relative">
+      <h2 className="text-center text-4xl font-extrabold text-gray-800 mb-12 relative">
         <span className='flex items-center justify-center'>
           <IconSchool size={50} strokeWidth={1.5} className="text-indigo-500" />&nbsp;
           EDUCATION</span>
