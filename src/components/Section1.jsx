@@ -38,7 +38,7 @@ const section1 = () => {
     <section id="home" className="flex flex-col md:flex-row items-center justify-around gap-40 px-10 py-20 bg-slate-100 mx-auto h-auto">
         
         <div className="relative w-64 h-64 sm:w-72 sm:h-72">
-        <div className="absolute inset-0 rounded-full bg-gradient-to-r from-slate-900 from-0% via-violet-950 via-40% to-cyan-400 to-100% shadow-2xl shadow-black scale-110 animate-pulse"></div>
+        <div className="absolute inset-0 rounded-full custom-gradient shadow-2xl shadow-black scale-110 animate-pulse"></div>
         <img src={profilephoto} alt="profile picture" className="relative w-200 h-90" />
         </div>
         
