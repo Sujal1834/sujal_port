@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import Educard from './educard'
+import Educard from './Educard'
 import deg from '../assets/result/Degree.jpg'
 import res10 from '../assets/result/result_10.jpg'
 import res12 from '../assets/result/result_12.jpg'
