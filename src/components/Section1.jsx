@@ -42,7 +42,7 @@ const section1 = () => {
         <img src={profilephoto} alt="profile picture" className="relative w-200 h-90" />
         </div>
         
-        <div className="text-center md:text-left flex flex-col gap-3 sm:items-left items-center">
+        <div className="text-center md:text-left flex flex-col gap-3 sm:items-left">
           <p className="text-lg text-gray-700">Hello,</p>
           <h1 className="text-3xl sm:text-5xl font-bold leading-tight">
               I am <span className="inline-block align-bottom text-left md:text-left sm:text-left text-bgcolor" style={{ width: '12ch' }}>{text}<span classNameName="blinking-cursor text-black font-thin ml-1">|</span> </span>
