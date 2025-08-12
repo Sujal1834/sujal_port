@@ -11,6 +11,9 @@
 .text-bgcolor
 {
   background: linear-gradient(to right, #2e1065 0%, #22d3ee 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .blinking-cursor {
