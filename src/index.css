@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+.custom-gradient {
+  background: linear-gradient(to right, #0f172a 0%, #2e1065 40%, #22d3ee 100%);
+}
+
 .blinking-cursor {
   animation: blink 0.5s step-start infinite;
   color: black;
