@@ -1,8 +1,8 @@
 import React,{useEffect} from 'react'
 import Educard from './Educard'
-import deg from '../assets/result/Degree.jpg'
-import res10 from '../assets/result/result_10.jpg'
-import res12 from '../assets/result/result_12.jpg'
+import deg from '../assets/result/Degree.JPG'
+import res10 from '../assets/result/result_10.JPG'
+import res12 from '../assets/result/result_12.JPG'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { IconSchool } from '@tabler/icons-react';
