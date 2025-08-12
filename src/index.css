@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.blinking-cursor {
+  animation: blink 0.5s step-start infinite;
+  color: black;
+}
+
+@keyframes blink {
+  10% {
+    opacity: 0;
+  }
+}
