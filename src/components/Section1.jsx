@@ -42,12 +42,12 @@ const section1 = () => {
         <img src={profilephoto} alt="profile picture" className="relative w-200 h-90" />
         </div>
         
-        <div className="text-center md:text-left">
-        <p className="text-lg text-gray-700">Hello,</p>
-        <h1 className="text-3xl sm:text-5xl font-bold leading-tight">
-            I am <span className="inline-block align-bottom text-left md:text-left sm:text-left text-bgcolor" style={{ width: '12ch' }}>{text}<span classNameName="blinking-cursor text-black font-thin ml-1">|</span> </span>
-        </h1>
-        <p className="mt-4 text-xl text-gray-800">MScIT Student / Tech Enthusiast</p>
+        <div className="text-center md:text-left flex flex-col gap-3">
+          <p className="text-lg text-gray-700">Hello,</p>
+          <h1 className="text-3xl sm:text-5xl font-bold leading-tight">
+              I am <span className="inline-block align-bottom text-left md:text-left sm:text-left text-bgcolor" style={{ width: '12ch' }}>{text}<span classNameName="blinking-cursor text-black font-thin ml-1">|</span> </span>
+          </h1>
+          <p className="mt-4 text-xl text-gray-800">MScIT Student / Tech Enthusiast</p>
         </div>
 
     </section>
