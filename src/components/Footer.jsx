@@ -2,7 +2,8 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-b from-slate-900 from-0% via-violet-950 via-40% to-cyan-400 to-100% text-white pt-5 px-6 pb-20 sm:bg-gradient-to-r">
+    // <footer className="bg-gradient-to-b from-slate-900 from-0% via-violet-950 via-40% to-cyan-400 to-100% text-white pt-5 px-6 pb-20 sm:bg-gradient-to-r">
+    <footer className="bg-black text-white pt-5 px-6 pb-20">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-10">
         
         <div className="flex flex-col sm:flex-row gap-10 sm:gap-30">
