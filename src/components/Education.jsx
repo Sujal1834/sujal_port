@@ -17,7 +17,7 @@ const Education = () => {
   }, []);
   return (
   <>
-  <div className="bg-white dark:bg-gray-900 py-20 px-4 sm:px-6 md:px-12 lg:px-24" id="education">
+  <div className="bg-white py-20 px-4 sm:px-6 md:px-12 lg:px-24" id="education">
 
       <h2 className="text-center text-4xl font-extrabold text-gray-800 dark:text-white mb-12 relative">
         <span className='flex items-center justify-center'>
