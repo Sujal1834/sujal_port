@@ -6,7 +6,6 @@ import Footer from './components/Footer'
 import Header from './components/Header'
 import AppRoutes from '../routes/AppRoutes';
 import Project from './components/Project'
-import Section1 from './components/section1'
 import ScrollToHash from './components/ScrollToHash'
 
 function App() {
