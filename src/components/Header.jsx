@@ -6,7 +6,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
 
-<header className="bg-gradient-to-r from-slate-900 from-0% via-violet-950 via-40% to-cyan-400 to-100% text-white shadow-md sticky top-0 z-50">
+<header className="bg-gradient-to-r from-slate-900 via-violet-950 to-cyan-400 text-white shadow-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <div className="text-3xl font-bold">Portfolio</div>
 
